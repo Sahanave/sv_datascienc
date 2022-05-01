@@ -16,6 +16,9 @@ We are so used to seeing our world in 3 colors. What if I tell you there are oth
     
 That can simplify object detection tasks in some cases. I hope to use this repo to assist beginners in getting started with processing HSI images focusing on data ingestion and data visualization. 
 
-This is part of my talk on Hyperspectral image analysis during the WomenWhoCode Open-house talk.
- [/images/graph.png]
+This is part of my talk on Hyperspectral image analysis during the WomenWhoCode Open-house
 
+
+## Project 2 Mission Predictable Hackathon [https://github.com/dimfoo/hackathon]
+
+We were working this as part of a hackthon sponcerd by AWS. We need a model that will tell us which at-risk individuals are likely to test positive for COVID-19 so that health workers can target testing resources and health education toward that population. For our initial study, we use the Mexico CoVID-19 dataset.
