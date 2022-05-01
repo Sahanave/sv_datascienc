@@ -17,5 +17,5 @@ We are so used to seeing our world in 3 colors. What if I tell you there are oth
 That can simplify object detection tasks in some cases. I hope to use this repo to assist beginners in getting started with processing HSI images focusing on data ingestion and data visualization. 
 
 This is part of my talk on Hyperspectral image analysis during the WomenWhoCode Open-house talk.
-
+ [/images/graph.png]
 
